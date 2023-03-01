@@ -156,8 +156,8 @@ paths:
       parameters: []
       responses:
         '200':
-          description: Returns an array of activities
-           content:
+          description: 'Returns an array of activities'
+          content:
             application/json:
               
               schema:
